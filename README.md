@@ -245,6 +245,89 @@ save(man38new,file="hm450_hg38_manifest_new-from-findOL.rda")
 
 ```
 
+# Session info for the above
+
+- Session info -------------------------------------------------------------------------------------------------------
+ setting  value                       
+ version  R version 3.5.1 (2018-07-02)
+ os       Windows >= 8 x64            
+ system   x86_64, mingw32             
+ ui       RStudio                     
+ language (EN)                        
+ collate  English_United States.1252  
+ tz       America/Los_Angeles         
+ date     2018-07-29                  
+
+- Packages -----------------------------------------------------------------------------------------------------------
+ package              * version    date       source                            
+ AnnotationDbi          1.42.1     2018-05-08 Bioconductor                      
+ AnnotationFilter       1.4.0      2018-05-01 Bioconductor                      
+ assertthat             0.2.0      2017-04-11 CRAN (R 3.5.1)                    
+ bindr                  0.1.1      2018-03-13 CRAN (R 3.5.1)                    
+ bindrcpp               0.2.2      2018-03-29 CRAN (R 3.5.1)                    
+ Biobase                2.40.0     2018-05-01 Bioconductor                      
+ BiocGenerics         * 0.26.0     2018-05-01 Bioconductor                      
+ BiocParallel           1.14.2     2018-07-09 Bioconductor                      
+ biomaRt                2.36.1     2018-05-24 Bioconductor                      
+ Biostrings             2.48.0     2018-05-01 Bioconductor                      
+ bit                    1.1-14     2018-05-29 CRAN (R 3.5.0)                    
+ bit64                  0.9-7      2017-05-08 CRAN (R 3.5.0)                    
+ bitops                 1.0-6      2013-08-17 CRAN (R 3.5.0)                    
+ blob                   1.1.1      2018-03-25 CRAN (R 3.5.1)                    
+ clipr                * 0.4.1      2018-06-23 CRAN (R 3.5.1)                    
+ clisymbols             1.2.0      2017-05-21 CRAN (R 3.5.1)                    
+ crayon                 1.3.4      2017-09-16 CRAN (R 3.5.1)                    
+ curl                   3.2        2018-03-28 CRAN (R 3.5.1)                    
+ DBI                    1.0.0      2018-05-02 CRAN (R 3.5.1)                    
+ DelayedArray           0.6.1      2018-06-15 Bioconductor                      
+ devtools               1.13.6     2018-06-27 CRAN (R 3.5.1)                    
+ digest                 0.6.15     2018-01-28 CRAN (R 3.5.1)                    
+ dplyr                * 0.7.6      2018-06-29 CRAN (R 3.5.1)                    
+ EnsDb.Hsapiens.v86     2.99.0     2018-07-25 Bioconductor                      
+ ensembldb              2.4.1      2018-05-08 Bioconductor                      
+ GenomeInfoDb         * 1.16.0     2018-05-01 Bioconductor                      
+ GenomeInfoDbData       1.1.0      2018-07-22 Bioconductor                      
+ GenomicAlignments      1.16.0     2018-05-01 Bioconductor                      
+ GenomicFeatures        1.32.0     2018-05-01 Bioconductor                      
+ GenomicRanges        * 1.32.6     2018-07-20 Bioconductor                      
+ git2r                  0.23.0     2018-07-17 CRAN (R 3.5.1)                    
+ glue                   1.3.0      2018-07-17 CRAN (R 3.5.1)                    
+ hms                    0.4.2      2018-03-10 CRAN (R 3.5.1)                    
+ httr                   1.3.1      2017-08-20 CRAN (R 3.5.1)                    
+ IRanges              * 2.14.10    2018-05-16 Bioconductor                      
+ lattice                0.20-35    2017-03-25 CRAN (R 3.5.1)                    
+ lazyeval               0.2.1      2017-10-29 CRAN (R 3.5.1)                    
+ magrittr               1.5        2014-11-22 CRAN (R 3.5.1)                    
+ Matrix                 1.2-14     2018-04-13 CRAN (R 3.5.1)                    
+ matrixStats            0.53.1     2018-02-11 CRAN (R 3.5.1)                    
+ memoise                1.1.0      2017-04-21 CRAN (R 3.5.1)                    
+ pillar                 1.3.0      2018-07-14 CRAN (R 3.5.1)                    
+ pkgconfig              2.0.1      2017-03-21 CRAN (R 3.5.1)                    
+ plyr                 * 1.8.4      2016-06-08 CRAN (R 3.5.1)                    
+ prettyunits            1.0.2      2015-07-13 CRAN (R 3.5.1)                    
+ progress               1.2.0      2018-06-14 CRAN (R 3.5.1)                    
+ ProtGenerics           1.12.0     2018-05-01 Bioconductor                      
+ purrr                  0.2.5      2018-05-29 CRAN (R 3.5.1)                    
+ R6                     2.2.2      2017-06-17 CRAN (R 3.5.1)                    
+ Rcpp                   0.12.17    2018-05-18 CRAN (R 3.5.1)                    
+ RCurl                  1.95-4.11  2018-07-15 CRAN (R 3.5.1)                    
+ rlang                  0.2.1      2018-05-30 CRAN (R 3.5.1)                    
+ Rsamtools              1.32.2     2018-07-03 Bioconductor                      
+ RSQLite                2.1.1      2018-05-06 CRAN (R 3.5.1)                    
+ rstudioapi             0.7        2017-09-07 CRAN (R 3.5.1)                    
+ rtracklayer            1.40.3     2018-06-02 Bioconductor                      
+ S4Vectors            * 0.18.3     2018-06-08 Bioconductor                      
+ sessioninfo          * 1.0.1.9000 2018-07-30 Github (r-lib/sessioninfo@c871d01)
+ stringi                1.1.7      2018-03-12 CRAN (R 3.5.0)                    
+ stringr                1.3.1      2018-05-10 CRAN (R 3.5.1)                    
+ SummarizedExperiment   1.10.1     2018-05-11 Bioconductor                      
+ tibble                 1.4.2      2018-01-22 CRAN (R 3.5.1)                    
+ tidyselect             0.2.4      2018-02-26 CRAN (R 3.5.1)                    
+ withr                  2.1.2      2018-03-15 CRAN (R 3.5.1)                    
+ XML                    3.98-1.12  2018-07-15 CRAN (R 3.5.1)                    
+ XVector                0.20.0     2018-05-01 Bioconductor                      
+ zlibbioc               1.26.0     2018-05-01 Bioconductor                      
+
 # Citations and Resources
 
 https://www.bioconductor.org/help/course-materials/2014/SeattleOct2014/B02.4_Annotation.html
