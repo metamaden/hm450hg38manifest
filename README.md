@@ -336,3 +336,7 @@ http://genomicsclass.github.io/book/pages/bioc1_annoOverview.html
 https://bioconductor.org/packages/release/data/annotation/
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5408848/
 https://bioconductor.org/packages/release/bioc/vignettes/biomaRt/inst/doc/biomaRt.html
+
+# TODO
+Upload the new manifest
+Include R doc that load with manifest, to describe the column names (some are not intuitive)
